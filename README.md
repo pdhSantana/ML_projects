@@ -5,3 +5,5 @@ Atualmente faço engenharia elétrica e estou em processo de mudança para engen
 venho me aventurado nos estudos dessa linda ciência.
 
 Fiz esse repositório com o intuito de documentar meus experimentos e ideias que venho tendo. Espero contribuir bastante para ciência !
+
+Sou iniciante e gostaria de receber dicas e ajudas dos mais experientes.
